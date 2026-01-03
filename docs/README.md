@@ -27,16 +27,20 @@ Our project management framework is organized into focused documents that cover 
 5. **[Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** – Capturing learnings, tracking action items, and iterating on processes.
 
 ### Cross-Cutting Concerns
-- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed responsibilities, goals, and communication patterns for each team role (PM, Product Manager, Developers, QA, Stakeholders).
-- **[Risks and Communication](octoacme-risks-and-communication.md)** – Risk identification and mitigation strategies, communication cadences, escalation paths, and status reporting templates.
+- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed responsibilities, goals, and communication patterns for each team role (Developers, Product Managers, Project Managers, UX/UI Designers, QA Engineers, DevOps Engineers, Customer Success/Support Leads, Security Leads).
+- **[Risks and Communication](octoacme-risks-and-communication.md)** – Risk identification and mitigation strategies, communication cadences, escalation paths, status reporting templates, and comprehensive risk/escalation checklists.
+
+### Templates & Tools
+- **[Cross-Functional Onboarding Matrix](octoacme-cross-functional-onboarding-matrix.md)** – Role interaction matrix showing collaboration touchpoints, comprehensive onboarding checklist for new team members, and communication norms by role pair.
+- **[Stakeholder Communication Template](octoacme-stakeholder-communication-template.md)** – Standardized templates for weekly status updates, incident communication, milestone announcements, and stakeholder alignment meetings.
 
 ## How to Use This Documentation
 
 **For New Team Members:**  
-Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach, then review [Roles and Personas](octoacme-roles-and-personas.md) to understand your responsibilities and how you'll collaborate with others.
+Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and approach, then review [Roles and Personas](octoacme-roles-and-personas.md) to understand your responsibilities and how you'll collaborate with others. Use the [Cross-Functional Onboarding Matrix](octoacme-cross-functional-onboarding-matrix.md) as your onboarding checklist to ensure you meet all key collaborators and understand interaction patterns.
 
 **For Project Managers:**  
-Follow the lifecycle documents in sequence ([Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution](octoacme-execution-and-tracking.md) → [Release](octoacme-release-and-deployment.md) → [Retrospective](octoacme-retrospective-and-continuous-improvement.md)) as you guide your project through each phase. Reference [Risks and Communication](octoacme-risks-and-communication.md) throughout for handling blockers and stakeholder updates.
+Follow the lifecycle documents in sequence ([Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution](octoacme-execution-and-tracking.md) → [Release](octoacme-release-and-deployment.md) → [Retrospective](octoacme-retrospective-and-continuous-improvement.md)) as you guide your project through each phase. Reference [Risks and Communication](octoacme-risks-and-communication.md) throughout for handling blockers and stakeholder updates. Use the [Stakeholder Communication Template](octoacme-stakeholder-communication-template.md) for consistent status reporting.
 
 **For Product Managers and Stakeholders:**  
 Review the [Overview](octoacme-project-management-overview.md) and [Roles and Personas](octoacme-roles-and-personas.md) to understand how product vision translates into delivery. Use [Project Initiation](octoacme-project-initiation.md) and [Planning](octoacme-project-planning.md) to ensure your requirements are properly captured and prioritized.
@@ -45,7 +49,7 @@ Review the [Overview](octoacme-project-management-overview.md) and [Roles and Pe
 Focus on [Execution and Tracking](octoacme-execution-and-tracking.md) for day-to-day workflows, and [Release and Deployment](octoacme-release-and-deployment.md) for quality gates and deployment practices. [Roles and Personas](octoacme-roles-and-personas.md) clarifies your responsibilities in the development lifecycle.
 
 **For Cross-Team Alignment:**  
-Use this documentation set as a shared reference for how OctoAcme runs projects. The consistent terminology, templates, and processes enable teams to collaborate effectively across organizational boundaries and maintain high standards of delivery.
+Use this documentation set as a shared reference for how OctoAcme runs projects. The consistent terminology, templates, and processes enable teams to collaborate effectively across organizational boundaries and maintain high standards of delivery. The [Cross-Functional Onboarding Matrix](octoacme-cross-functional-onboarding-matrix.md) clarifies collaboration patterns, while the [Stakeholder Communication Template](octoacme-stakeholder-communication-template.md) ensures everyone receives consistent updates.
 
 ## Contributing
 
@@ -54,3 +58,5 @@ Found a gap in the documentation or have a suggestion for improvement? Follow ou
 ---
 
 *This documentation supports Issue [#2](https://github.com/jeetu-rathore/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2) – Creating comprehensive navigation and context for OctoAcme's project management processes.*
+
+*Updated templates and role expansions address Issue [#4](https://github.com/jeetu-rathore/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4) – Implementing targeted process improvements for efficient cross-functional collaboration, consistent communication, and streamlined onboarding.*
